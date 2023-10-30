@@ -1,4 +1,4 @@
-class MPDMusicPlayer():
+class MPCMusicPlayer():
     def __init__(self) -> None:
         pass
     
@@ -7,5 +7,4 @@ class MPDMusicPlayer():
     
     def set_library_directory(self, dir_name) -> None:
         pass
-    
     
